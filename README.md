@@ -9,7 +9,7 @@ This Plugin is to integrate ePayment gateway with Chargily easily.
 
 # Contribution tips
 1. Make a fork of this repo.
-2. Take a tour to our [API documentation here](https://github.com/Chargily/epay-gateway-php/blob/master/README_API.md)
+2. Take a tour to our [API documentation here](https://dev.chargily.com/docs/#/epay_integration_via_api)
 3. Get your API Key/Secret from [ePay by Chargily](https://epay.chargily.com.dz) dashboard for free.
 4. Start developing.
 5. Finished? Pull to merge.
